@@ -1,11 +1,11 @@
 
 # 🍣 Case Study #1: Danny's Diner
 
-## 📘 Problem Summary
+## Problem Summary
 
 Danny wants to use data to better understand his customers' buying behavior at his restaurant. The goal is to perform analysis on customer visits, most purchased items, total spending, and loyalty program impact.
 
-## 🧰 Tools Used
+## Tools Used
 
 - SQL (PostgreSQL / MySQL compatible)
 - Joins
@@ -14,7 +14,7 @@ Danny wants to use data to better understand his customers' buying behavior at h
 - Common Table Expressions (CTEs)
 - CASE Statements
 
-## 📊 Business Questions & SQL Solutions
+## Business Questions & SQL Solutions
 
 ### 1. What is the total amount each customer spent at the restaurant?
 ```sql
