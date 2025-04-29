@@ -3,7 +3,7 @@
 
 ## About the Project
 
-The 8 Week SQL Challenge by Danny Ma offers a series of real-world case studies designed to sharpen SQL skills in business analytics and data exploration. Each case study simulates a different industry scenario, providing opportunities to work with structured datasets and solve practical data problems.
+The 8-Week SQL Challenge by Danny Ma offers a series of real-world case studies designed to sharpen SQL skills in business analytics and data exploration. Each case study simulates a different industry scenario, providing opportunities to work with structured datasets and solve practical data problems.
 
 This repository contains solutions for Case Studies 2 through 8, completed using SQL. Each case study includes clean code with explanations and answers to the original challenge questions.
 
@@ -52,5 +52,4 @@ Each folder contains:
 ## Credits
 
 Challenge created by [Danny Ma](https://8weeksqlchallenge.com/).  
-All solutions are authored independently as part of a learning initiative.
 
