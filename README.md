@@ -9,6 +9,9 @@ This repository contains solutions for Case Studies 2 through 8, completed using
 
 ## Case Studies Completed
 
+- **Case Study 1: Danny's Diner**  
+  A beginner-friendly case exploring basic SQL concepts including joins, aggregations, filtering, and customer loyalty insights for a Japanese diner.
+
 - **Case Study 2: Pizza Runner**  
   Analyzes delivery efficiency and customer order behavior for a startup pizza delivery service.
 
